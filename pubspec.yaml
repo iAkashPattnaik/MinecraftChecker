@@ -1,0 +1,16 @@
+name: minecraft_checker
+description: A sample command-line application.
+version: 1.0.0
+# homepage: https://www.example.com
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  uuid: ^3.0.4
+  http: ^0.13.3
+  colorize: ^3.0.0
+
+dev_dependencies:
+  pedantic: ^1.10.0
+  test: ^1.16.0
