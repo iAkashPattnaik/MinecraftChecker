@@ -1,7 +1,8 @@
 name: minecraft_checker
-description: A sample command-line application.
+description: A project built in dart to check combos for minecraft hits.
 version: 1.0.0
-# homepage: https://www.example.com
+homepage: https://github.com/BLUE-DEVIL1134/MinecraftChecker
+icon: ./icon.ico
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
